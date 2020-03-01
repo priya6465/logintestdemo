@@ -15,7 +15,7 @@ public class Amstrongnumber {
 			cube=cube+(r*r*r);
 		}
 		if(t==cube){
-			System.out.println("This is amstrong number");
+			System.out.println("This is amstrongs number");
 		}
 		else{
 			System.out.println("This is not amstrong number");
